@@ -1,0 +1,23 @@
+.mainUl {
+    border: none;
+}
+
+ul {
+    height: 3rem;
+    border: solid 1px black;
+    list-style-type: none;
+    margin: 10px;
+}
+
+li {
+
+}
+
+.true {
+    background-color: orange;
+
+}
+
+.false {
+    background-color: white;
+}
